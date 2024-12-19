@@ -44,13 +44,13 @@ ResponsiveRow(horizontalArrangement = Arrangement.Expand,
 
 Different settings for horizontalArrangement :
 
-* [horizontalArrangement = Arrangement.Expand](doc/ResponsiveRowExpand.mp4)
-* [horizontalArrangement = Arrangement.Start](doc/ResponsiveRowStart.mp4)
-* [horizontalArrangement = Arrangement.End](doc/ResponsiveRowEnd.mp4)
-* [horizontalArrangement = Arrangement.Center](doc/ResponsiveRowCenter.mp4)
-* [horizontalArrangement = Arrangement.SpaceAround](doc/ResponsiveRowSpaceAround.mp4)
-* [horizontalArrangement = Arrangement.SpaceBetween](doc/ResponsiveRowSpaceBetween.mp4)
-* [horizontalArrangement = Arrangement.SpaceEvenly](doc/ResponsiveRowSpaceEvenly.mp4)
+* [horizontalArrangement = Arrangement.Expand](https://youtu.be/sWhWcbMbBNU)
+* [horizontalArrangement = Arrangement.Start](https://youtu.be/ykPBTEuo9Dg)
+* [horizontalArrangement = Arrangement.End](https://youtu.be/bmiT9CAN0QA)
+* [horizontalArrangement = Arrangement.Center](https://youtu.be/gmBnpgfF_lI)
+* [horizontalArrangement = Arrangement.SpaceAround](https://youtu.be/CosVYHTh7xw)
+* [horizontalArrangement = Arrangement.SpaceBetween](https://youtu.be/jOZp8M4jFK0)
+* [horizontalArrangement = Arrangement.SpaceEvenly](https://youtu.be/XlJDcXaGtmM)
 
 ## Notes
 
