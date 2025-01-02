@@ -55,8 +55,24 @@ fun ResponsiveRow(modifier: Modifier = Modifier,
 
         for (measurable in measurableList)
         {
-            val itemWidth = measurable.maxIntrinsicWidth(width)
-            val itemHeight = measurable.maxIntrinsicHeight(height)
+            val itemWidth = try
+            {
+                measurable.maxIntrinsicWidth(width)
+            }
+            catch (_: Exception)
+            {
+                width
+            }
+
+            val itemHeight = try
+            {
+                measurable.maxIntrinsicHeight(height)
+            }
+            catch (_: Exception)
+            {
+                height
+            }
+
             val placeableInfo = PlaceableInfo(itemWidth, itemHeight)
             rowInResponsiveRow.add(placeableInfo)
             placeableInfoList.add(placeableInfo)
